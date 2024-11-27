@@ -23,3 +23,6 @@ docs/venv
 # development
 .vscode
 **/.DS_Store
+
+# goose ignores
+**/venv/
